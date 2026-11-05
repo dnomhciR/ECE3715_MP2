@@ -16,13 +16,13 @@ The seed remains fixed, with a separate random generator for each step.
 ### Files
 - `mp2.ipynb`: Derivations, simulations, figures, and interpretations.
 - `mp2lib.py`: Supporting probability and sampling functions.
-- `notebooks_mp2_completed_parts_7_8.ipynb`: Updated notebook containing Steps 1–8, including Andrew's completed Steps 7–8.
 
-### Running the Project
-Keep both files in the same folder. Open `mp2.ipynb` in Jupyter and select **Restart Kernel and Run All Cells**.
-
-Required packages: NumPy, SciPy, and Matplotlib.
+### Runtime and Status
+All 14 code cells, covering Steps 1–8 and Bonuses A and B, completed successfully in approximately 20 seconds.
 
 ### Runtime and Status
 Steps 1–6 ran without errors in approximately 15.3 seconds locally.
 Steps 7–8 ran successfully in JupyterLite, including Figures 8 and 9. Final full-notebook runtime verification remains pending.
+
+### Project Video
+[Watch our project presentation](PASTE_VIDEO_LINK_HERE)

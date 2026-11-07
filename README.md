@@ -25,4 +25,4 @@ Steps 1–6 ran without errors in approximately 15.3 seconds locally.
 Steps 7–8 ran successfully in JupyterLite, including Figures 8 and 9. Final full-notebook runtime verification remains pending.
 
 ### Project Video
-[Watch our project presentation](PASTE_VIDEO_LINK_HERE)
+[Watch our project presentation]([PASTE_VIDEO_LINK_HERE](https://youtu.be/kDhUmcfQEoA))
